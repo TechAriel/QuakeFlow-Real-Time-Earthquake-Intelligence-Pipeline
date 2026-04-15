@@ -1,18 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ## Bronze Layer Processing Notebook
-# 
-# New notebook
-
-# In[1]:
-
+# Bronze Layer Processing Notebook
 
 import requests
 import json
-
-
-# In[5]:
 
 
 # Construct the API URL with start and end dates provided by Data Factory Pipeline, formatted for geojson output.
