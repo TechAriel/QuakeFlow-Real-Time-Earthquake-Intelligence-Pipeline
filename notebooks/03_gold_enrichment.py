@@ -1,7 +1,6 @@
 # Gold Layer Processing Notebook
 
 
-
 from pyspark.sql.functions import when, col, udf
 from pyspark.sql.types import StringType
 # ensure the below library is installed on fabric environment
